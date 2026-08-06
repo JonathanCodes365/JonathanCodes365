@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Ngawang
 
-<!--
-**JonathanCodes365/JonathanCodes365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BE.IT Student at Pokhara University
+💻 Learning Backend Development with Python
+🌱 Currently studying:
+- CS50x Harvard
+- Python
+- Git & GitHub
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git
+- GitHub
+- HTML
+- CSS
+- SQL (Learning)
+
+## Current Goals
+
+- Finish CS50x
+- Build backend projects
+- Learn Flask
+- Learn PostgreSQL
+
+## Connect
+
+LinkedIn:
+Portfolio:
+Email:## Hi there 👋
+
+
