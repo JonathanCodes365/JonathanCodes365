@@ -25,8 +25,7 @@
 
 ## Connect
 
-LinkedIn:
-Portfolio:
-Email:## Hi there 👋
+LinkedIn: https://www.linkedin.com/in/ngawang-sherpa-5a911b379/?isSelfProfile=true
+Email:ngawangt.sherpa777@gmail.com
 
 
