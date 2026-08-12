@@ -1,23 +1,31 @@
-<h1 align="center">Hi, I'm Ngawang Tharchin Sherpa 👋</h1>
+<h1 align="center">ngawang@kathmandu:~$</h1>
 
-<h3 align="center">IT undergrad in Kathmandu, building my way toward AI/ML research</h3>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2E9EF7&center=true&width=550&lines=status%3A+clearing+backlog...;stack%3A+flask+%2B+sql+%2B+patience;next%3A+ml%2C+once+the+foundation+holds;building+in+public.+badly.+often." /></p>
+
+---
+
+```bash
+$ whoami
+IT undergrad, Pokhara University — Cosmos College
+
+$ current_focus
+["Flask", "DSA", "not skipping the boring parts"]
+
+$ long_term --goal
+"funded MS abroad, then actually understand how these systems think"
+
+$ pinned_repos
+[repo1, repo2, repo3]
+```
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+FastAPI+%2B+Backend+Dev;Becoming+a+Full-Stack+Developer;Heading+Toward+AI%2FML+Research;Building+in+public%2C+one+repo+at+a+time" alt="Typing SVG" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=JonathanCodes365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JonathanCodes365&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-### 🧭 About Me
-
-- 🎓 BE Information Technology, Cosmos College of Management and Technology (Pokhara University), Lalitpur, Nepal
-- 🔭 Currently learning **Flask** and backend development, working toward full-stack + AI/ML
-- 🌱 Long-term goal: MS in Data Science/AI/ML abroad — chasing a real understanding of intelligence, not just a job
-- 💻 Early riser — most of my focused study and coding happens before 7 AM
-- 📍 Based in Kathmandu, Nepal
-- ⚡ Fun fact: I start my day at 4 AM, code before class, and I'm not even mad about it anymore
-
----
+<p align="center"><i>uptime: consistent. bugs: many. shipping anyway.</i></p>
 
 ### 🛠️ Tech Stack
 
