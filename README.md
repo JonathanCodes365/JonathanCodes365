@@ -3,7 +3,7 @@
 <h3 align="center">IT undergrad in Kathmandu, building my way toward AI/ML research</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+Flask+%2B+Backend+Dev;Becoming+a+Full-Stack+Developer;Heading+Toward+AI%2FML+Research;Building+in+public%2C+one+repo+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learning+FastAPI+%2B+Backend+Dev;Becoming+a+Full-Stack+Developer;Heading+Toward+AI%2FML+Research;Building+in+public%2C+one+repo+at+a+time" alt="Typing SVG" />
 </p>
 
 ---
