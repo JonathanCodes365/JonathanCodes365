@@ -1,6 +1,6 @@
 <h1 align="center">ngawang@kathmandu:~$</h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=2E9EF7&center=true&width=550&lines=status%3A+clearing+backlog...;stack%3A+flask+%2B+sql+%2B+patience;next%3A+ml%2C+once+the+foundation+holds;building+in+public.+badly.+often." /></p>
+[ OK ] mounting algorithms...;[ OK ] loading fastapi + sql...;[WAIT] compiling patience...;[ ?? ] ml.service — pending dependencies
 
 ---
 
@@ -15,17 +15,9 @@ $ long_term --goal
 "funded MS abroad, then actually understand how these systems think"
 
 $ pinned_repos
-[repo1, repo2, repo3]
-```
-
+**[CS50_LISTS](https://github.com/JonathanCodes365/Python-CS50-LeetCode)** — CS50 problem sets worked through in order, not skipped around.
 ---
 
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=JonathanCodes365&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JonathanCodes365&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center"><i>uptime: consistent. bugs: many. shipping anyway.</i></p>
 
 ### 🛠️ Tech Stack
 
@@ -54,6 +46,7 @@ $ pinned_repos
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JonathanCodes365&theme=tokyonight&hide_border=true" />
 </p>
+<p align="center"><i>uptime: consistent. bugs: many.    shipping anyway.</i></p>
 
 ---
 
