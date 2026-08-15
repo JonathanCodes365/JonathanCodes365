@@ -19,7 +19,10 @@ $ long_term --goal
 $ ls -la ~/repos
 ```
 
-**[CS50_LISTS](https://github.com/JonathanCodes365/Python-CS50-LeetCode)** — CS50 problem sets worked through in order, not skipped around.
+
+**[LeetCode](https://github.com/JonathanCodes365/LeetCode)** - Solving Every LeetCode problem there is .
+<br>
+**[CS50_LISTS](https://github.com/JonathanCodes365/Python-CS50)** — CS50 problem sets worked through in order, not skipped around.
 
 <br>
 
