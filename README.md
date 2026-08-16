@@ -43,11 +43,11 @@ $ ls -la ~/repos
 
 ### 🚀 what I'm working on
 
-- Building a solid backend foundation with Flask before layering ML on top
 - Solving DSA problems consistently — the goal is fluency, not just completion
 - Slowly assembling a portfolio of small, real projects instead of tutorials I never finish
+- Learning HTML, CSS and JS alongside backend fundamentals.
+- Picking up SQL and FastAPI next, aiming toward backend → AI/ML
 - Preparing for MS applications: grades, projects, and eventually research exposure
-
 <br>
 
 `contact:` [LinkedIn](https://www.linkedin.com/in/ngawang-sherpa-5a911b379/) · [ngawangt.sherpa777@gmail.com](mailto:ngawangt.sherpa777@gmail.com)
