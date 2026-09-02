@@ -33,9 +33,9 @@ $ ls -la ~/repos
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JonathanCodes365&layout=compact&theme=tokyonight&hide_border=true&hide=typescript" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=JonathanCodes365&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 <p align="center"><i>uptime: consistent. bugs: many. shipping anyway.</i></p>
 
