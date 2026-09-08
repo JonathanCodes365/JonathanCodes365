@@ -7,14 +7,12 @@
 <br>
 
 ```bash
-$ whoami
-IT undergrad, Pokhara University — Cosmos College
+$ Bugs are what cause a software to evolve.
+Without 
 
 $ current_focus
-["FastAPI", "DSA", "not skipping the boring parts"]
+Solving Bugs
 
-$ long_term --goal
-"funded MS abroad, then actually understand how these systems think"
 
 $ ls -la ~/repos
 ```
@@ -22,7 +20,7 @@ $ ls -la ~/repos
 
 **[LeetCode](https://github.com/JonathanCodes365/LeetCode)** - Solving Every LeetCode problem there is .
 <br>
-**[CS50_LISTS](https://github.com/JonathanCodes365/Python-CS50)** — CS50 problem sets worked through in order, not skipped around.
+**[CS50_LISTS](https://github.com/JonathanCodes365/Python-CS50)** — Just the beginning.
 
 <br>
 
@@ -46,12 +44,11 @@ $ ls -la ~/repos
 - Solving DSA problems consistently — the goal is fluency, not just completion
 - Slowly assembling a portfolio of small, real projects instead of tutorials I never finish
 - Learning HTML, CSS and JS alongside backend fundamentals.
-- Picking up SQL and FastAPI next, aiming toward backend → AI/ML
-- Preparing for MS applications: grades, projects, and eventually research exposure
+- What if i could create something that can actually think and alternate with me?
 <br>
 
 `contact:` [LinkedIn](https://www.linkedin.com/in/ngawang-sherpa-5a911b379/) · [ngawangt.sherpa777@gmail.com](mailto:ngawangt.sherpa777@gmail.com)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JonathanCodes365&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JonathanCodes365&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views..You have been checking me out huh? LEAVE ME HERE." />
 </p>
