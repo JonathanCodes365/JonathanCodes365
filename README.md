@@ -7,8 +7,8 @@
 <br>
 
 ```bash
-$ Bugs are what cause a software to evolve.
-Without 
+$ Bugs
+Evolve more; This is just the beginning.
 
 $ current_focus
 Solving Bugs
